@@ -1,11 +1,11 @@
 ﻿using System;
-using TimeSetter.Maths;
+using TimeSetter.Timing;
 
 namespace TimeSetter
 {
     public class TimerSetter
     {
-        Maths.Objects m = new Maths.Objects();
+        Timing.Timing n = new Timing.Timing();
 
     }
 
